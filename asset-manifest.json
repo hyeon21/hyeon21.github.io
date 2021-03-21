@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.3d5c09cb.chunk.css",
+    "main.js": "/test/static/js/main.c2557147.chunk.js",
+    "main.js.map": "/test/static/js/main.c2557147.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.99289f1d.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.99289f1d.js.map",
+    "static/js/2.a5df6ebc.chunk.js": "/test/static/js/2.a5df6ebc.chunk.js",
+    "static/js/2.a5df6ebc.chunk.js.map": "/test/static/js/2.a5df6ebc.chunk.js.map",
+    "static/js/3.76eb7e27.chunk.js": "/test/static/js/3.76eb7e27.chunk.js",
+    "static/js/3.76eb7e27.chunk.js.map": "/test/static/js/3.76eb7e27.chunk.js.map",
+    "index.html": "/test/index.html",
+    "static/css/main.3d5c09cb.chunk.css.map": "/test/static/css/main.3d5c09cb.chunk.css.map",
+    "static/js/2.a5df6ebc.chunk.js.LICENSE.txt": "/test/static/js/2.a5df6ebc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/test/static/media/hyeon01.a3e2f973.jpg",
+    "static/media/logo.6ce24c58.svg": "/test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99289f1d.js",
+    "static/js/2.a5df6ebc.chunk.js",
+    "static/css/main.3d5c09cb.chunk.css",
+    "static/js/main.c2557147.chunk.js"
+  ]
+}
